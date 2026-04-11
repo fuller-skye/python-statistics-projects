@@ -1,4 +1,4 @@
-# python-statistics-projects
-Different projects focusing on statistics in Python
+# python-datascience-projects
+Different projects focusing on data science/analytics in Python
 
-Codespace - [Python Statistic Tools]()
+
